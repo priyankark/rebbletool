@@ -1,0 +1,2 @@
+[console_scripts]
+pypkjs = pypkjs.runner.websocket:run_tool
